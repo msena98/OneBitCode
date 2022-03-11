@@ -1,0 +1,10 @@
+h1, li{
+    color: brown;
+    background-color: bisque;
+    border: 4px solid rgb(250, 117, 69)
+}
+body{
+    background-image: url(img/super_cars.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
