@@ -10,3 +10,7 @@
 - Sql (PostgreSQL) (10%)
 - MongoDB (10%)
 - Outras (5%)
+
+### Professores
+- Leonardo Scorza: cofundador do OneBitCode, programador full stack e instrutor.
+- Daniel Moreto: programador especialista em backend e instrutor.
